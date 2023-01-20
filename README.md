@@ -87,7 +87,17 @@ Escreva um programa que percorre uma lista com as matrículas dos alunos que est
 (a) Adicionar telefones na agenda -- isso deve ser feito de forma que ela se mantenha sempre ordenada -- cada nome novo já deve ser inserido na posição correta dentro da agenda;
 (b) Procurar um telefone -- o usuário informa um nome e o programa mostra o número do telefone, ou diz que não está na agenda A busca deve ser inteligente: deve parar assim que encontrar um nome maior do que o nome que está sendo buscado, ao invés de percorrer a lista sempre até o final para concluir que um nome não está na agenda;
 
-- [ ] `:`
+- [ ] `:` Faça um programa que leia dois vetores de 3 posições, que representam forças sobre um ponto no espaço 3D, e escreva a força resultante.
+
+Dica: força resultante é obtida pela soma dos valores das coordenadas correspondentes nos dois vetores: (x1 + x2), (y1 + y2), (z1 + z2)
+
+- [ ] `:` Faça um programa que preencha por leitura um vetor de 10 posições, e conta quantos valores  diferentes existem no vetor;
+
+- [ ] `:` Faça um programa que preencha por leitura um vetor de 5 posições, e informe a posição em que um valor x (lido do teclado) está no vetor. Caso o valor x não seja encontrado, o programa deve imprimir o valor -1;
+
+- [ ] `:` Um dado é lançado 50 vezes, e o valor correspondente é armazenado em um vetor. Faça um programa que determine o percentual de ocorrências de face 6 do dado dentre esses 50 lançamentos;
+
+- [ ] `:` Faça um programa que leia um vetor vet de 20 posições. O programa deve gerar, a partir do vetor lido, um outro vetor pos que contenha apenas os valores inteiros positivos de vet. A partir do vetor pos, deve ser gerado um outro vetor semdup que contenha apenas uma ocorrência de cada valor de pos;
 
 ### Módulo 4: Funções e Ordenação
 
